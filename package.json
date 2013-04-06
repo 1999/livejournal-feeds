@@ -1,10 +1,28 @@
 {
 	"name": "livejournal-feeds",
 	"version": "0.1.0",
-	"private": true,
-	"dependencies": {
-		"request": "2.16.x"
+	"homepage": "https://github.com/1999/livejournal-feeds",
+	"author": "Dmitry Sorin <info@staypositive.ru>",
+	"description": "Build RSS channel with your Livejournal friends' private posts",
+	"contributors": [
+		"Dmitry Sorin (http://www.staypositive.ru)"
+	],
+	"main": "./index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/1999/livejournal-feeds.git"
 	},
+	"bugs": {
+		"url": "https://github.com/1999/livejournal-feeds/issues"
+	},
+	"keywords": [
+		"livejournal",
+		"digest"
+	],
+	"dependencies": {
+		"request": "2.12"
+	},
+	"license": "MIT",
 	"engines": {
 		"node": ">=0.10"
 	}
