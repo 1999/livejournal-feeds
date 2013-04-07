@@ -1,6 +1,6 @@
 {
 	"name": "livejournal-feeds",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"homepage": "https://github.com/1999/livejournal-feeds",
 	"author": "Dmitry Sorin <info@staypositive.ru>",
 	"description": "Build RSS channel with your Livejournal friends' private posts",
@@ -20,7 +20,7 @@
 		"digest"
 	],
 	"dependencies": {
-		"request": "2.12"
+		"request": "2.16"
 	},
 	"license": "MIT",
 	"engines": {
