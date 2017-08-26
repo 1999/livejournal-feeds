@@ -1,4 +1,6 @@
 # What is it?
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/1999/livejournal-feeds.svg)](https://greenkeeper.io/)
 A tool for fetching LiveJournal RSS feeds including private posts
 
 # Installation
