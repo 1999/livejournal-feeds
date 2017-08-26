@@ -20,7 +20,7 @@
 		"digest"
 	],
 	"dependencies": {
-		"request": "2.16"
+		"request": "~2.81.0"
 	},
 	"license": "MIT",
 	"engines": {
